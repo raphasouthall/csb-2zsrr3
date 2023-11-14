@@ -27,13 +27,13 @@ body {
 
 .header {
   display: flex;
-  height: 10vh;
+  height: 5vh;
   justify-content: space-between;
   align-items: center;
-  margin-top: 1rem;
+  margin-top: 2rem;
   margin-right: 1rem;
   margin-left: 1rem;
-  margin-bottom: 2rem;
+  /* margin-bottom: 0rem; */
   background-color: white;
 }
 
@@ -62,8 +62,8 @@ body {
 .buttons {
   display: flex;
   flex-direction: column;
-  padding-left: 5rem;
-  padding-right: 5rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
   gap: 1rem;
   margin-bottom: 3rem;
 }
